@@ -1,0 +1,1 @@
+// var GitHubViewer = angular.module("gitHubViewer", ['ngResource']);
